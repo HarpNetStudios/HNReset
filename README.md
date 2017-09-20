@@ -9,5 +9,5 @@ You can help in 2 ways, if you have knowledge of Lua and can fix some stupid mis
 Another way you can help is to submit an issue with whatever you are suggesting. We will do our best to resolve any problems.
 
 ## Who made this?
-* Idea, programming - Yellowberry
-* Moral support - HowManySmall
+* Idea, programming - [Yellowberry](https://github.com/realtinymonster)
+* Moral support and code snippets - [HowManySmall](https://github.com/howmanysmall)
